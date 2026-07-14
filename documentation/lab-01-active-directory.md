@@ -127,3 +127,16 @@ Verified access to common Windows administration tools:
 ## 6. Screenshots
 01-aws-ec2-instance
 <img width="1920" height="1032" alt="01-aws-ec2-instance" src="https://github.com/user-attachments/assets/4ac825eb-17db-43c1-a56c-1d976bee0c46" />
+02-Server-Manager-Dashboard
+<img width="1920" height="1040" alt="02-Server-Manager-Dashboard" src="https://github.com/user-attachments/assets/6c442a26-2f92-4c8c-bd25-931c819cb001" />
+03-AD-Users-and-Cpus-devonlab.local-expanded
+<img width="1152" height="648" alt="03-AD-Users-and-Cpus devonlab local expanded" src="https://github.com/user-attachments/assets/35ac1ac5-99af-43d7-80a1-c797a91778c3" />
+04-DNS-Manager-devonlab
+
+<img width="754" height="528" alt="04-DNS-Manage-devonlab" src="https://github.com/user-attachments/assets/a3556f37-4c34-43e3-bfef-720b118b489e" />
+
+05-server-Manager-Tools
+
+<img width="364" height="666" alt="05-Server-Manager-Tools" src="https://github.com/user-attachments/assets/8457f27a-1136-4f88-b9bf-23f61c95e73d" />
+
+
