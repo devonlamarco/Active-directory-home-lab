@@ -67,3 +67,26 @@ Performed common Active Directory user management tasks to simulate daily help d
 **Documentation:**
 
 [Lab 3 Documentation](documentation/lab-03-user-administration.md)
+
+## Lab 4 – Security Groups
+
+Created and managed Active Directory Security Groups to simulate enterprise authorization and role-based access control (RBAC).
+
+**Skills demonstrated:**
+
+- Security Group creation
+- Group membership management
+- User authorization
+- Active Directory administration
+- Role-based access control (RBAC)
+
+**Key concepts:**
+
+- Authentication vs. Authorization
+- Security Groups
+- Least privilege
+- Access management
+
+**Documentation:**
+
+[Lab 4 Documentation](documentation/lab-04-security-groups.md)
