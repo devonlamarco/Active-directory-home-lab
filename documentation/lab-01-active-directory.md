@@ -59,7 +59,6 @@ Created a Windows Server 2022 EC2 instance in AWS.
 
 The server was configured with Remote Desktop access for administration.
 
-![AWS EC2 Instance](../screenshots/01-aws-ec2-instance.png)
 
 ---
 
@@ -69,7 +68,6 @@ Installed the Active Directory Domain Services (AD DS) server role through Serve
 
 This role allows Windows Server to function as a Domain Controller.
 
-![AD DS Installation](../screenshots/02-ad-ds-installed.png)
 
 ---
 
@@ -83,7 +81,6 @@ devonlab.local
 
 The Domain Controller provides centralized authentication and stores user, computer, and group objects.
 
-![Active Directory Users and Computers](../screenshots/03-active-directory-users.png)
 
 ---
 
@@ -93,7 +90,6 @@ Verified that DNS was configured for the Active Directory domain.
 
 Active Directory relies on DNS so domain-joined computers can locate Domain Controllers.
 
-![DNS Manager](../screenshots/04-dns-manager.png)
 
 ---
 
@@ -105,7 +101,6 @@ Verified access to common Windows administration tools:
 - DNS Manager
 - Group Policy Management
 
-![Server Manager Tools](../screenshots/05-server-manager-tools.png)
 
 ---
 
