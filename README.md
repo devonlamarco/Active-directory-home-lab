@@ -19,3 +19,27 @@ Skills demonstrated:
 Documentation:
 
 [Lab 1 Documentation](documentation/lab-01-active-directory.md)
+
+## Lab 2 – Organizational Units (OUs)
+
+Built a logical Active Directory organizational structure by creating departmental Organizational Units (OUs), creating user accounts, and organizing users into their respective departments.
+
+**Skills demonstrated:**
+
+- Active Directory administration
+- Organizational Unit (OU) creation
+- User account creation
+- User object management
+- Active Directory organization
+- Basic identity administration
+
+**Key concepts:**
+
+- Organizational Units (OUs)
+- Delegation of administration
+- Departmental organization
+- Enterprise Active Directory structure
+
+**Documentation:**
+
+[Lab 2 Documentation](documentation/lab-02-organizational-units.md)
