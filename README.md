@@ -42,4 +42,4 @@ Built a logical Active Directory organizational structure by creating department
 
 **Documentation:**
 
-[Lab 2 Documentation](lab-02-organizational-units.md)
+[Lab 2 Documentation](documentation/lab-02-organizational-units.md)
