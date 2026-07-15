@@ -90,3 +90,24 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 **Documentation:**
 
 [Lab 4 Documentation](documentation/lab-04-security-groups.md)
+
+## Lab 5 – Group Policy Objects (GPOs)
+
+**Skills Practiced**
+
+- Created and linked Group Policy Objects (GPOs)
+- Applied user configuration policies
+- Configured desktop and Control Panel restrictions
+- Reviewed domain password policies
+- Forced Group Policy updates
+- Learned Group Policy inheritance and centralized management
+
+**Technologies**
+
+- Active Directory
+- Group Policy Management Console (GPMC)
+- Windows Server
+
+**Documentation**
+
+📄 [Lab 5 – Group Policy Objects](./Lab-05-Group-Policy-Objects.md)
