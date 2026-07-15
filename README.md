@@ -110,4 +110,4 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 
 **Documentation**
 
-📄 [Lab 5 – Group Policy Objects](./Lab-05-Group-Policy-Objects.md)
+📄 [Lab 5 – Group Policy Objects](documentation/Lab-05-Group-Policy-Objects.md)
