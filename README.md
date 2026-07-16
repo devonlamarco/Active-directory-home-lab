@@ -131,3 +131,23 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 **Documentation**
 
 📄 [Lab 6 – Delegation of Control](documentation/lab-06-Delegation-of-Control.md)
+
+## Lab 7 – NTFS Permissions
+
+**Skills Practiced**
+
+- Configured NTFS folder permissions
+- Applied security groups to file system resources
+- Disabled and managed permission inheritance
+- Implemented role-based access control (RBAC)
+- Applied least-privilege principles
+
+**Technologies**
+
+- Windows Server
+- Active Directory
+- NTFS File System
+
+**Documentation**
+
+📄 [Lab 7 – NTFS Permissions](./Lab-07-NTFS-Permissions.md)
