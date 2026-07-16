@@ -150,4 +150,4 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 
 **Documentation**
 
-📄 [Lab 7 – NTFS Permissions](./Lab-07-NTFS-Permissions.md)
+📄 [Lab 7 – NTFS Permissions](documentation/lab-07-NTFS-Permissions.md)
