@@ -110,7 +110,7 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 
 **Documentation**
 
-📄 [Lab 5 – Group Policy Objects](documentation/Lab-05-Group-Policy-Objects.md)
+📄 [Lab 5 – Group Policy Objects](documentation/lab-05-Group-Policy-Objects.md)
 
 ## Lab 6 – Delegation of Control
 
@@ -130,4 +130,4 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 
 **Documentation**
 
-📄 [Lab 6 – Delegation of Control](./Lab-06-Delegation-of-Control.md)
+📄 [Lab 6 – Delegation of Control](documentation/lab-06-Delegation-of-Control.md)
