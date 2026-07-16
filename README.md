@@ -111,3 +111,23 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 **Documentation**
 
 📄 [Lab 5 – Group Policy Objects](documentation/Lab-05-Group-Policy-Objects.md)
+
+## Lab 6 – Delegation of Control
+
+**Skills Practiced**
+
+- Created a HelpDesk security group
+- Delegated administrative permissions
+- Applied the Principle of Least Privilege
+- Assigned password reset permissions
+- Reviewed delegated permissions on an Organizational Unit
+
+**Technologies**
+
+- Active Directory Users and Computers
+- Active Directory Domain Services (AD DS)
+- Delegation of Control Wizard
+
+**Documentation**
+
+📄 [Lab 6 – Delegation of Control](./Lab-06-Delegation-of-Control.md)
