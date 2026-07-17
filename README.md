@@ -151,3 +151,24 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 **Documentation**
 
 📄 [Lab 7 – NTFS Permissions](documentation/lab-07-NTFS-Permissions.md)
+
+## Lab 8 – Shared Folders & Share Permissions
+
+**Skills Practiced**
+
+- Configured SMB network shares
+- Assigned Share Permissions using Active Directory groups
+- Compared Share Permissions with NTFS permissions
+- Verified shared folders using Computer Management
+- Applied least-privilege access control
+
+**Technologies**
+
+- Windows Server
+- Active Directory
+- SMB File Sharing
+- NTFS
+
+**Documentation**
+
+📄 [Lab 8 – Shared Folders & Share Permissions](documentation/lab-08-Shared-Folders.md)
