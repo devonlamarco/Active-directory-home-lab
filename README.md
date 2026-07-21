@@ -172,3 +172,23 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 **Documentation**
 
 📄 [Lab 8 – Shared Folders & Share Permissions](documentation/lab-08-Shared-Folders.md)
+
+## Lab 9 – DNS Administration
+
+**Skills Practiced**
+
+- Managed Active Directory-integrated DNS
+- Created A and CNAME records
+- Verified DNS resolution with nslookup
+- Explored Forward Lookup Zones
+- Reviewed SRV records used by Active Directory
+
+**Technologies**
+
+- Windows DNS
+- Active Directory
+- nslookup
+
+**Documentation**
+
+📄 [Lab 9 – DNS Administration](documentation/lab-09-DNS-Administration.md)
