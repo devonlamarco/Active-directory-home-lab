@@ -212,3 +212,49 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 **Documentation**
 
 📄 [Lab 10 – DHCP Administration](documentation/lab-10-DHCP-Administration.md)
+
+## Lab 11 – Active Directory PowerShell
+
+**Skills Practiced**
+
+- Used PowerShell to manage Active Directory objects
+- Queried domain and user information
+- Retrieved user group memberships
+- Created and verified Active Directory user accounts
+- Added users to security groups using PowerShell
+- Practiced identity lifecycle tasks similar to user onboarding
+
+**Technologies**
+
+- Windows PowerShell
+- Active Directory Domain Services (AD DS)
+- ActiveDirectory PowerShell Module
+
+**Tasks Completed**
+
+- Imported the ActiveDirectory PowerShell module
+- Retrieved domain information using PowerShell
+- Queried Active Directory users
+- Verified security group memberships
+- Created a new Active Directory user
+- Assigned access through security group membership
+
+**Real-World Scenario**
+
+Simulated a new employee onboarding request by creating an Active Directory account and assigning access based on the employee's department and job responsibilities.
+
+Example workflow:
+
+```
+HR Request
+    ↓
+Create AD User Account
+    ↓
+Assign Security Groups
+    ↓
+User Receives Required Access
+```
+
+**Documentation**
+
+📄 [Lab 11 – Active Directory PowerShell](documentation/lab-11-Active-Directory-Powershell.md)
