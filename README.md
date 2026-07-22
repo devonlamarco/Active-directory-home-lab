@@ -211,4 +211,4 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 
 **Documentation**
 
-📄 [Lab 10 – DHCP Administration](./lab-10-DHCP-Administration.md)
+📄 [Lab 10 – DHCP Administration](documentation/lab-10-DHCP-Administration.md)
