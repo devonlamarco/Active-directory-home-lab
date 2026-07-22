@@ -51,7 +51,7 @@ Configured a DHCP scope on a Windows Server to automate IPv4 address assignment 
 
 ---
 
-### 6. Scope Options
+### 2. Scope Options
 
 <img width="400" height="455" alt="02-scope properties" src="https://github.com/user-attachments/assets/a0b966ca-b2f1-49a0-90d7-2bc3fcfa984c" />
 
