@@ -192,3 +192,23 @@ Created and managed Active Directory Security Groups to simulate enterprise auth
 **Documentation**
 
 📄 [Lab 9 – DNS Administration](documentation/lab-09-DNS-Administration.md)
+
+## Lab 10 – DHCP Administration
+
+**Skills Practiced**
+
+- Configured a Windows DHCP scope
+- Assigned IP address ranges
+- Configured DHCP options (gateway and DNS)
+- Reviewed address pools, leases, and reservations
+- Activated and verified DHCP services
+
+**Technologies**
+
+- Windows Server
+- DHCP Server
+- Active Directory
+
+**Documentation**
+
+📄 [Lab 10 – DHCP Administration](./lab-10-DHCP-Administration.md)
