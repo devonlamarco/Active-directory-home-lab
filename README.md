@@ -258,3 +258,28 @@ User Receives Required Access
 **Documentation**
 
 📄 [Lab 11 – Active Directory PowerShell](documentation/lab-11-Active-Directory-Powershell.md)
+
+## Lab 12 – Group Policy Troubleshooting & Verification
+
+**Skills Practiced**
+
+- Verified Group Policy Object configuration
+- Confirmed GPO links to Organizational Units
+- Forced Group Policy updates
+- Generated and analyzed Group Policy reports
+- Practiced troubleshooting Group Policy application
+
+**Technologies**
+
+- Windows Server
+- Active Directory Domain Services
+- Group Policy Management Console
+- Windows PowerShell
+
+**Real-World Scenario**
+
+Investigated a report that a Group Policy setting was not applying. Verified the GPO existed, confirmed it was linked to the correct Organizational Unit, forced a policy refresh, and reviewed Group Policy Results to determine why the policy was not applied.
+
+**Documentation**
+
+📄 [Lab 12 – Group Policy Troubleshooting & Verification](documentation/lab-12-Group-Policy-Troubleshooting.md)
