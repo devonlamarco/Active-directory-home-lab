@@ -283,3 +283,50 @@ Investigated a report that a Group Policy setting was not applying. Verified the
 **Documentation**
 
 📄 [Lab 12 – Group Policy Troubleshooting & Verification](documentation/lab-12-Group-Policy-Troubleshooting.md)
+
+## Lab 13 – Active Directory User Lifecycle (Joiner, Mover, Leaver)
+
+**Skills Practiced**
+
+- Verified Active Directory user accounts using PowerShell
+- Managed user lifecycle (Joiner, Mover, Leaver)
+- Modified security group memberships
+- Reset user passwords
+- Checked account lockout status
+- Disabled Active Directory accounts for secure offboarding
+- Applied the principle of least privilege
+
+**Technologies**
+
+- Windows Server
+- Active Directory Domain Services (AD DS)
+- Windows PowerShell
+- ActiveDirectory PowerShell Module
+
+**Real-World Scenario**
+
+Simulated the complete lifecycle of an employee account by verifying an existing user, updating access after a department transfer, resetting a forgotten password, checking lockout status, and securely disabling the account after termination.
+
+Example workflow:
+
+```
+New Hire
+    ↓
+Create / Verify Account
+    ↓
+Assign Security Groups
+    ↓
+Employee Changes Role
+    ↓
+Update Group Memberships
+    ↓
+Password Reset / Unlock
+    ↓
+Employee Leaves
+    ↓
+Disable Account
+```
+
+**Documentation**
+
+📄 [Lab 13 – Active Directory User Lifecycle](documentation/lab-13-Active-Directory-User-Lifecycle-(JML).md)
