@@ -330,3 +330,29 @@ Disable Account
 **Documentation**
 
 📄 [Lab 13 – Active Directory User Lifecycle](documentation/lab-13-Active-Directory-User-Lifecycle-(JML).md)
+
+## Lab 14 – Active Directory Troubleshooting Scenarios
+
+**Skills Practiced**
+
+- Verified Active Directory user accounts
+- Reset passwords using PowerShell
+- Investigated account lockouts
+- Validated security group memberships
+- Reviewed account expiration settings
+- Practiced structured troubleshooting
+
+**Technologies**
+
+- Windows Server
+- Active Directory Domain Services
+- Windows PowerShell
+- ActiveDirectory PowerShell Module
+
+**Real-World Scenario**
+
+Simulated common Active Directory help desk tickets involving login issues, forgotten passwords, lost access to shared resources, account lockouts, and expired accounts.
+
+**Documentation**
+
+📄 [Lab 14 – Active Directory Troubleshooting Scenarios](documentation/lab-14-Active-Directory-Troubleshooting.md)
