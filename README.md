@@ -356,3 +356,28 @@ Simulated common Active Directory help desk tickets involving login issues, forg
 **Documentation**
 
 📄 [Lab 14 – Active Directory Troubleshooting Scenarios](documentation/lab-14-Active-Directory-Troubleshooting.md)
+
+## Lab 15 – Active Directory Auditing & Reporting
+
+**Skills Practiced**
+
+- Audited Active Directory users and groups
+- Reviewed account status and inactive accounts
+- Performed security group access reviews
+- Exported identity reports using PowerShell
+- Practiced IAM-style access governance
+
+**Technologies**
+
+- Windows Server
+- Active Directory Domain Services
+- Windows PowerShell
+- ActiveDirectory PowerShell Module
+
+**Real-World Scenario**
+
+Performed an Active Directory access review by auditing user accounts, checking group memberships, identifying inactive accounts, and generating reports for security and compliance purposes.
+
+**Documentation**
+
+📄 [Lab 15 – Active Directory Auditing & Reporting](documentation/lab15-Active-Directory-Auditing.md)
